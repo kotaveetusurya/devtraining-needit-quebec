@@ -31,6 +31,7 @@
         <sys_updated_on>2017-02-08 21:13:03</sys_updated_on>
         <table>x_58872_needit_needit</table>
         <type>onSubmit</type>
+        <u_incident_reference/>
         <ui_type>10</ui_type>
         <view/>
     </sys_script_client>

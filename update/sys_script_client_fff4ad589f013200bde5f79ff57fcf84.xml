@@ -63,6 +63,7 @@
         <sys_updated_on>2017-05-02 20:21:06</sys_updated_on>
         <table>x_58872_needit_needit</table>
         <type>onChange</type>
+        <u_incident_reference/>
         <ui_type>10</ui_type>
         <view/>
     </sys_script_client>
