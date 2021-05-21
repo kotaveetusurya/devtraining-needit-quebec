@@ -35,6 +35,7 @@
         <sys_updated_on>2017-02-16 01:17:29</sys_updated_on>
         <table>x_58872_needit_needit</table>
         <type>onLoad</type>
+        <u_incident_reference/>
         <ui_type>10</ui_type>
         <view/>
     </sys_script_client>
